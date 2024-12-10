@@ -1,0 +1,4 @@
+[core]
+    remote = mydvcremote
+['remote "mydvcremote"']
+    url = C:\Users\Admin\AppData\Local\Temp\campusx-storage
